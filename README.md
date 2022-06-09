@@ -4,7 +4,7 @@ ___
 </p>
 
 ___
-<h3><p align="center">Unity/Python Developer</p><h3>
+<h3><p align="center">Unity Developer</p><h3>
 
   
 ---
@@ -32,6 +32,7 @@ ___
       <li>Firebase</li>
       <li>Mirror Networking</li>
       <li>Profiler</li>
+      <li>Input Actions (new Input System)</li>
     </ul>
   </h4>
 
