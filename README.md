@@ -5,11 +5,11 @@
   👋 Hi! I'm Denis \
   ❤ Nice to meet you
 
-  🌱 I’m currently working on: Python Web Project, C# Discord Bot, Unity Mobile Game, PC Visual Novel, PC FarmSim \
+  🌱 I’m currently working on: C# Game launcher, Unity MMO Gacha Adventure and PC FarmSim \
   💬 Feel free to contact me thru links down below c: \
-  💜 Hobby: Drawing, 3D models, games, anime \
+  💜 Hobby: Drawing, singing, 3D models, games, anime \
   🎵 Into hyperpop and nightcore. \
-  ⚡ 4 years of commercial experience with Unity and Python
+  ⚡ 5 years of commercial experience with Unity and Python
 
 ## Tech Stack
 
