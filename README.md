@@ -23,7 +23,7 @@
   <img src='sofit-sofit-xinyan2.jpg' width='250' align="right">
   <p float="left">
     
-    https://www.artstation.com/sofit_1
+    https://twitter.com/_Sofit__/status/1595540274385752064
     
   ## Tech Stack
     
