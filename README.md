@@ -9,7 +9,7 @@
   
   🌱 Currently working on: Launcher, Gacha Open-World Slasher, FarmSim \
   💬 Feel free to contact me thru links down below c: \
-  💜 Hobby: Drawing, singing, 3D models, games, anime \
+  💜 Hobby: Drawing, singing, piano, guitar, games, anime \
   🎵 Into hyperpop, death metal and alternative rock. \
   ⚡ 5 years of commercial experience with Unity, 2 with .NET and a year with Python
     
