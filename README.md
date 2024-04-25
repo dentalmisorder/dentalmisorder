@@ -33,6 +33,7 @@
   ![Rider](https://img.shields.io/badge/Rider-black?style=for-the-badge&logo=rider&logoColor=yellow)
 - ![Python](https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=ffffff)
   ![C#](https://img.shields.io/badge/Csharp-%230175C2.svg?style=for-the-badge&logo=csharp&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-black.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
   ![PHP](https://img.shields.io/badge/php-000000.svg?style=for-the-badge&logo=php&logoColor=8564d9)
   ![ASP NET](https://img.shields.io/badge/asp.net-000000.svg?style=for-the-badge&logo=dotnet&logoColor=blue)
 - ![Firebase](https://img.shields.io/badge/Firebase-F4A460.svg?style=for-the-badge&logo=Firebase&logoColor=white)
